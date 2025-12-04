@@ -1,35 +1,28 @@
-Name: Enrique De Jesus Rios Rivera
-Matriculation: 2530389
-Group: IM 1-3
+#Name: Enrique De Jesus Rios Rivera
+#Matriculation: 2530389
+#Group: IM 1-3
 
-Resumen ejecutivo:
+"""Resumen ejecutivo:
 - A for loop iterates a known number of times, useful for processing sequences or ranges.
 - A while loop continues until a condition changes, ideal when iterations depend on runtime data (e.g., sentinel or attempts).
 - A counter tracks occurrences (initialized before loop and incremented), an accumulator aggregates values (sum).
 - Defining a clear exit condition avoids infinite loops; always update loop control variables in while loops.
 - This file contains 6 problems (with descriptions, inputs, outputs, validations and tests) that illustrate for/while usage,
-  plus conclusions and references at the end.
+  plus conclusions and references at the end."""
 
-Principles and good practices (short):
-- Use for when the number of iterations is known (for i in range(...)).
-- Use while when iterations depend on a condition (e.g., read until "EXIT").
-- Initialize counters and accumulators before loops.
-- Update loop-control variables in while loops to avoid infinite loops.
-- Keep loop bodies small; extract logic to functions when needed.
 
-Diagrams / tables (optional):
-- "Flowchart Problem 3: (Start) -> Read value -> If sentinel? -> Yes: compute average -> No: add to sum and continue"
-- "Table of test cases: Problem#, CaseType, Input, ExpectedOutput (described beside each problem below)"
 
-References:
+#===============================================================================
+
+"""References:
 1. "Python 3 Documentation", docs.python.org
 2. "Automate the Boring Stuff with Python", Al Sweigart
 3. "Think Python", Allen B. Downey
 4. "Introduction to Algorithms", Cormen et al. (for algorithmic thinking)
 5. "Clean Code", Robert C. Martin (for best practices in code structure)
-6. Additional online tutorials and course notes (local materials)
+6. Additional online tutorials and course notes (local materials)"""
 
-===============================================================================
+#===============================================================================
 # Problem 1: Sum of range with for
 # Description:
 #   Compute the sum of integers from 1 to n (inclusive) and the sum of even numbers in that range.
@@ -429,7 +422,7 @@ def test_problem6():
             assert out[0] == expected_contains
     print()
 
-if _name_ == "_main_":
+if __name__ == "_main_":
     # Run all problem tests sequentially
     test_problem1()
     test_problem2()
@@ -438,3 +431,5 @@ if _name_ == "_main_":
     test_problem5()
     test_problem6()
     print("All tests completed successfully.")
+    #Repo
+#https://github.com/2530389-Enrique-Rivera/Metodologia_de_la_programacion.git

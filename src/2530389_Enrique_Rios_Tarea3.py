@@ -1,6 +1,6 @@
-Name: Enrique De Jesus Rios Rivera
-Matriculation: 2530389
-Group: IM 1-3
+#Name: Enrique De Jesus Rios Rivera
+#Matriculation: 2530389
+#Group: IM 1-3
 """"
 lista
 Una lista en Python es una estructura de datos muy versátil que permite almacenar una colección ordenada de elementos. Estas son algunas de sus características principales:
@@ -378,3 +378,6 @@ else:
             print("Contact deleted:", name.strip())
         else:
             print("Error: contact not found")
+
+#Repo
+#https://github.com/2530389-Enrique-Rivera/Metodologia_de_la_programacion.git           

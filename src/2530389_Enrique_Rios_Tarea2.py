@@ -1,6 +1,7 @@
-Name: Enrique De Jesus Rios Rivera
-Matriculation: 2530389
-Group: IM 1-3
+#Name: Enrique De Jesus Rios Rivera
+#Matriculation: 2530389
+#Group: IM 1-3
+
 # ==================================================
 # 7.2 Problem 2: Work hours and overtime payment
 # ==================================================
@@ -168,3 +169,5 @@ except:
 # - Python Official Docs: https://docs.python.org/3/
 # - Class Notes
  
+ #Repo
+#https://github.com/2530389-Enrique-Rivera/Metodologia_de_la_programacion.git

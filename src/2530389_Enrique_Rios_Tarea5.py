@@ -1,8 +1,8 @@
 # Portada:
 
-Name: Enrique De Jesus Rios Rivera
-Matriculation: 2530389
-Group: IM 1-3
+#Name: Enrique De Jesus Rios Rivera
+#Matriculation: 2530389
+#Group: IM 1-3
 
 # -----------------------------------------------------------------------------
 # Executive Summary:
@@ -413,7 +413,7 @@ def main():
     run_problem_5()
     run_problem_6()
 
-if _name_ == "_main_":
+if __name__ == "_main_":
     main()
 
 # Conclusions:
@@ -434,3 +434,5 @@ if _name_ == "_main_":
 # 5. Python Standard Library Documentation. https://docs.python.org/3/library/
 # 6. Freeman, E., & Robson, E. (2012). Head First Programming. O'Reilly Media.
 
+#Repo
+#https://github.com/2530389-Enrique-Rivera/Metodologia_de_la_programacion.git

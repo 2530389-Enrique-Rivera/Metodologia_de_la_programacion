@@ -1,6 +1,6 @@
-Name: Enrique De Jesus Rios Rivera
-Matriculation: 2530389
-Group: IM 1-3
+#Name: Enrique De Jesus Rios Rivera
+#Matriculation: 2530389
+#Group: IM 1-3
 
 ##RESUMEN EJECUTIVO 
 
@@ -544,4 +544,6 @@ Error: Invalid price format.
 # 3) “Automate the Boring Stuff with Python” – Al Sweigart, capítulos sobre manipulación de texto.
 # 4) Apuntes de Programación Básica y Algoritmos – manejo de cadenas y validaciones de entrada.
 # 5) Artículos sobre buenas prácticas de sanitización y normalización de texto en software.
-# 6) W3Schools Python String Methods – Resumen de funciones comunes: strip(), split(), replace(), etc.
+# 6) W3Schools Python String Methods – Resumen de funciones comunes: strip(), split(), replace(), etc."""
+#Repo
+#https://github.com/2530389-Enrique-Rivera/Metodologia_de_la_programacion.git
